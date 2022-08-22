@@ -1,3 +1,3 @@
 # Pagina de Blog
 
-Meu primeiro projeto um blog
+Meu primeiro projeto uma pagina de blog
