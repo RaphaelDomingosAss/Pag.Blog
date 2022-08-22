@@ -1,2 +1,3 @@
-# Pag.Blog
- meu primeiro projeto um blog 
+# Pagina de Blog
+
+Meu primeiro projeto um blog
